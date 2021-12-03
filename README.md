@@ -2,7 +2,7 @@
 
 ![valid XHTML][checkmark]
 
-# angular-strapi-labs
+# angular-strapi-labs 👉️
 
 ## Contribuição
 
